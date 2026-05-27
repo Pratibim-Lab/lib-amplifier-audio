@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/MAX9744:MAX9744",
+  "name": "MAX9744",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/MAX9744.kicad_sym",
+  "description": "Filterless Class-D / Class-AB Stereo Audio Amplifier with Volume Control, 20W, 4.5..14V input, -40..85°C, QFN-44",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX9744.pdf",
+  "keywords": "Maxim",
+  "footprint": "Package_DFN_QFN:TQFN-44-1EP_7x7mm_P0.5mm_EP4.7x4.7mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/MAX9744/",
+  "part_path": "parts/MAX9744",
+  "symbol_file": "parts/MAX9744/MAX9744.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:32.190Z"
+}

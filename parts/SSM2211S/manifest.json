@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/SSM2211S:SSM2211S",
+  "name": "SSM2211S",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/SSM2211S.kicad_sym",
+  "description": "1.5W BTL or 250mW SE 4MHz-bandwidth high performance amplifier, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2211.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/SSM2211S/",
+  "part_path": "parts/SSM2211S",
+  "symbol_file": "parts/SSM2211S/SSM2211S.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:56.870Z"
+}

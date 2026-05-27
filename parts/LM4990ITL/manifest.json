@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM4990ITL:LM4990ITL",
+  "name": "LM4990ITL",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM4990ITL.kicad_sym",
+  "description": "Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level, DSBGA-9",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm4990.pdf",
+  "keywords": "audio amplifier class d",
+  "footprint": "Package_BGA:Texas_DSBGA-9_1.4715x1.4715mm_Layout3x3_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM4990ITL/",
+  "part_path": "parts/LM4990ITL",
+  "symbol_file": "parts/LM4990ITL/LM4990ITL.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:21.120Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/MAX9814:MAX9814",
+  "name": "MAX9814",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/MAX9814.kicad_sym",
+  "description": "Microphone Amplifier with AGC and Low-Noise Microphone Bias, TDFN-14",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX9814.pdf",
+  "keywords": "audio microphone amplifier",
+  "footprint": "Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/MAX9814/",
+  "part_path": "parts/MAX9814",
+  "symbol_file": "parts/MAX9814/MAX9814.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:33.486Z"
+}

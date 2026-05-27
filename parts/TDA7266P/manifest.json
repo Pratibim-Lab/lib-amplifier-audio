@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA7266P:TDA7266P",
+  "name": "TDA7266P",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA7266P.kicad_sym",
+  "description": "3W+3W Dual Bridge Amplifier, PowerSSO-24",
+  "datasheet": "http://www.st.com/resource/en/datasheet/tda7266p.pdf",
+  "keywords": "audio amplifier 2ch",
+  "footprint": "Package_SO:ST_PowerSSO-24_SlugDown",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA7266P/",
+  "part_path": "parts/TDA7266P",
+  "symbol_file": "parts/TDA7266P/TDA7266P.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:20.343Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM4810:LM4810",
+  "name": "LM4810",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM4810.kicad_sym",
+  "description": "Boomer Dual 105mW Headphone Amplifier with Active-High Shutdown Mode, VSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm4810.pdf",
+  "keywords": "audio amplifier headphone",
+  "footprint": "Package_SO:TSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM4810/",
+  "part_path": "parts/LM4810",
+  "symbol_file": "parts/LM4810/LM4810.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:17.085Z"
+}

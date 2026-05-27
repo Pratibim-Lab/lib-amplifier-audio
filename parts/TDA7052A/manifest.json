@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA7052A:TDA7052A",
+  "name": "TDA7052A",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA7052A.kicad_sym",
+  "description": "1W BTL mono audio amplifier with DC volume control, DIP-8/SOIC-8",
+  "datasheet": "http://www.nxp.com/docs/en/data-sheet/TDA7052A_AT.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA7052A/",
+  "part_path": "parts/TDA7052A",
+  "symbol_file": "parts/TDA7052A/TDA7052A.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:13.406Z"
+}

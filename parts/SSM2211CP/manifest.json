@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/SSM2211CP:SSM2211CP",
+  "name": "SSM2211CP",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/SSM2211CP.kicad_sym",
+  "description": "1.5W BTL or 250mW SE 4MHz-bandwidth high performance amplifier, LFCSP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2211.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_CSP:LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/SSM2211CP/",
+  "part_path": "parts/SSM2211CP",
+  "symbol_file": "parts/SSM2211CP/SSM2211CP.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:55.930Z"
+}

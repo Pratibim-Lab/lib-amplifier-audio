@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/SSM2017P:SSM2017P",
+  "name": "SSM2017P",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/SSM2017P.kicad_sym",
+  "description": "Self-Contained Audio Preamplifier, DIP-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/139484016SSM2017.pdf",
+  "keywords": "audio preamplifier",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/SSM2017P/",
+  "part_path": "parts/SSM2017P",
+  "symbol_file": "parts/SSM2017P/SSM2017P.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:49.693Z"
+}

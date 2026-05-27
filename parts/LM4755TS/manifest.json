@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM4755TS:LM4755TS",
+  "name": "LM4755TS",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM4755TS.kicad_sym",
+  "description": "Stereo 11W Audio Power Amplifier with Mute, TO-263-9",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm4755.pdf",
+  "keywords": "audio amplifier 2ch",
+  "footprint": "Package_TO_SOT_SMD:TO-263-9_TabPin5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM4755TS/",
+  "part_path": "parts/LM4755TS",
+  "symbol_file": "parts/LM4755TS/LM4755TS.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:14.982Z"
+}

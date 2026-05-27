@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/Si8241CB:Si8241CB",
+  "name": "Si8241CB",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/Si8241CB.kicad_sym",
+  "description": "Class D Audio Driver With Precision Dead-Time Generator, 10V UVLO, ±750V, ±0.5A, SOIC-16",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCD5702-D.PDF",
+  "keywords": "class d gate driver",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "Si8241BB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/Si8241CB/",
+  "part_path": "parts/Si8241CB",
+  "symbol_file": "parts/Si8241CB/Si8241CB.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:46.645Z"
+}

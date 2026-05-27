@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TPA6132A2RTE:TPA6132A2RTE",
+  "name": "TPA6132A2RTE",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TPA6132A2RTE.kicad_sym",
+  "description": "25mW, Stereo, DirectPath Audio Amplifier, WQFN-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tpa6132a2.pdf",
+  "keywords": "DirectPath audio amplifier Stereo",
+  "footprint": "Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TPA6132A2RTE/",
+  "part_path": "parts/TPA6132A2RTE",
+  "symbol_file": "parts/TPA6132A2RTE/TPA6132A2RTE.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:36.526Z"
+}

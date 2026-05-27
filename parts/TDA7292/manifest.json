@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA7292:TDA7292",
+  "name": "TDA7292",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA7292.kicad_sym",
+  "description": "40W + 40W stereo amplifier with mute and standby, TO-220-11",
+  "datasheet": "http://www.st.com/resource/en/datasheet/tda7292.pdf",
+  "keywords": "audio amplifier 2ch",
+  "footprint": "Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.58mm_Vertical",
+  "extends": "TDA7265",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA7292/",
+  "part_path": "parts/TDA7292",
+  "symbol_file": "parts/TDA7292/TDA7292.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:22.353Z"
+}

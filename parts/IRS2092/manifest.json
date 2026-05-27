@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/IRS2092:IRS2092",
+  "name": "IRS2092",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/IRS2092.kicad_sym",
+  "description": "Protected Digital Audio Amplifier, PWM Modulator, ±100V, 1.0/1.2A, PDIP-16",
+  "datasheet": "http://www.infineon.com/dgdl/irs2092.pdf?fileId=5546d462533600a401535675f1be2790",
+  "keywords": "Gate Driver Class D",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/IRS2092/",
+  "part_path": "parts/IRS2092",
+  "symbol_file": "parts/IRS2092/IRS2092.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:28:56.827Z"
+}

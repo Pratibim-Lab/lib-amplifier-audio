@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA2003:TDA2003",
+  "name": "TDA2003",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA2003.kicad_sym",
+  "description": "10W Car Radio Audio Amplifier, TO-220-5",
+  "datasheet": "http://www.st.com/resource/en/datasheet/cd00000123.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA2003/",
+  "part_path": "parts/TDA2003",
+  "symbol_file": "parts/TDA2003/TDA2003.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:09.296Z"
+}

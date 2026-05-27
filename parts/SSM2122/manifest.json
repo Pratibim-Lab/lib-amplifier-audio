@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/SSM2122:SSM2122",
+  "name": "SSM2122",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/SSM2122.kicad_sym",
+  "description": "Dynamic Range Pprocessor/Dual VCA, DIP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/105738070SSM2120.pdf",
+  "keywords": "audio VCA",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/SSM2122/",
+  "part_path": "parts/SSM2122",
+  "symbol_file": "parts/SSM2122/SSM2122.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:52.866Z"
+}

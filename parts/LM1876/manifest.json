@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM1876:LM1876",
+  "name": "LM1876",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM1876.kicad_sym",
+  "description": "Overture Audio Power Amplifier Series Dual 20W Audio Power Amplifier with Mute and Standby Modes, TO-220-15",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm1876.pdf",
+  "keywords": "audio amplifier 2ch",
+  "footprint": "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM1876/",
+  "part_path": "parts/LM1876",
+  "symbol_file": "parts/LM1876/LM1876.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:05.920Z"
+}

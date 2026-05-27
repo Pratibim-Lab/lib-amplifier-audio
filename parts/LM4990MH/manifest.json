@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM4990MH:LM4990MH",
+  "name": "LM4990MH",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM4990MH.kicad_sym",
+  "description": "Boomer 2 Watt Audio Power Amplifier with Selectable Shutdown Logic Level, MSOP-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm4990.pdf",
+  "keywords": "audio amplifier class d",
+  "footprint": "Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM4990MH/",
+  "part_path": "parts/LM4990MH",
+  "symbol_file": "parts/LM4990MH/LM4990MH.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:23.008Z"
+}

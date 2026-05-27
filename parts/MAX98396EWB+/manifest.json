@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/MAX98396EWB+:MAX98396EWB+",
+  "name": "MAX98396EWB+",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/MAX98396EWB+.kicad_sym",
+  "description": "20V Digital Input Class-DG Amplifier with I/V Sense and Brownout Prevention, WLP-35",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX98396.pdf",
+  "keywords": "digital audio amp i2s tdm class-dg",
+  "footprint": "Package_CSP:Maxim_WLCSP-35_2.998x2.168mm_Layout7x5_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/MAX98396EWB+/",
+  "part_path": "parts/MAX98396EWB+",
+  "symbol_file": "parts/MAX98396EWB+/MAX98396EWB+.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:35.904Z"
+}

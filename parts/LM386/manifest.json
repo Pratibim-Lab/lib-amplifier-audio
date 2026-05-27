@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM386:LM386",
+  "name": "LM386",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM386.kicad_sym",
+  "description": "Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm386.pdf",
+  "keywords": "single Power opamp",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM386/",
+  "part_path": "parts/LM386",
+  "symbol_file": "parts/LM386/LM386.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:11.779Z"
+}

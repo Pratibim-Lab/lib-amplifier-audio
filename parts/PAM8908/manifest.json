@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/PAM8908:PAM8908",
+  "name": "PAM8908",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/PAM8908.kicad_sym",
+  "description": "60mW 2.5-5.5V differential stereo headphone amplifier with adjustable gain, QFN-16",
+  "datasheet": "https://www.diodes.com/datasheet/download/PAM8908.pdf",
+  "keywords": "audio",
+  "footprint": "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/PAM8908/",
+  "part_path": "parts/PAM8908",
+  "symbol_file": "parts/PAM8908/PAM8908.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:44.788Z"
+}

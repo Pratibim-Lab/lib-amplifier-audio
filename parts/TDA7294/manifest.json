@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA7294:TDA7294",
+  "name": "TDA7294",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA7294.kicad_sym",
+  "description": "100V - 100W DMOS Audio Amplifier with Mute/St-by, TO-220-15",
+  "datasheet": "http://www.st.com/resource/en/datasheet/tda7294.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical",
+  "extends": "TDA7293",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA7294/",
+  "part_path": "parts/TDA7294",
+  "symbol_file": "parts/TDA7294/TDA7294.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:24.569Z"
+}

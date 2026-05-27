@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/MAX98306xDT:MAX98306xDT",
+  "name": "MAX98306xDT",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/MAX98306xDT.kicad_sym",
+  "description": "Stereo 3.7 W Class D Amplifier, TDFN-14",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX98306.pdf",
+  "keywords": "Class-D stereo amplifier",
+  "footprint": "Package_DFN_QFN:TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/MAX98306xDT/",
+  "part_path": "parts/MAX98306xDT",
+  "symbol_file": "parts/MAX98306xDT/MAX98306xDT.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:34.620Z"
+}

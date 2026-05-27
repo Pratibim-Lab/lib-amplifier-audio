@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TPA6203A1DGN:TPA6203A1DGN",
+  "name": "TPA6203A1DGN",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TPA6203A1DGN.kicad_sym",
+  "description": "1.25W, Mono, Differential Audio Amplifier, MSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tpa6203a1.pdf",
+  "keywords": "Differential audio amplifier Mono",
+  "footprint": "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.95x2.15mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TPA6203A1DGN/",
+  "part_path": "parts/TPA6203A1DGN",
+  "symbol_file": "parts/TPA6203A1DGN/TPA6203A1DGN.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:37.489Z"
+}

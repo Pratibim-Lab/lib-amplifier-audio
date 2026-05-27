@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/MA12040:MA12040",
+  "name": "MA12040",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/MA12040.kicad_sym",
+  "description": "Filterless and High-Efficiency +4V to +18V Audio Amplifier with Analog Input, QFN-64",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-MA12040-DS-v01_00-EN.pdf?fileId=5546d46264a8de7e0164b7467a3d617c",
+  "keywords": "integrated class d amplifier",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/MA12040/",
+  "part_path": "parts/MA12040",
+  "symbol_file": "parts/MA12040/MA12040.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:25.977Z"
+}

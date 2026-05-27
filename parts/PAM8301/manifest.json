@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/PAM8301:PAM8301",
+  "name": "PAM8301",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/PAM8301.kicad_sym",
+  "description": "Filterless Class-D Mono Audio Amplifier, 1.5W, TSOT-26",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM8301.pdf",
+  "keywords": "audio amplifier class d",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/PAM8301/",
+  "part_path": "parts/PAM8301",
+  "symbol_file": "parts/PAM8301/PAM8301.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:38.907Z"
+}

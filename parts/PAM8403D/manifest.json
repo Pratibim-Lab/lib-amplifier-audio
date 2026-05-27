@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/PAM8403D:PAM8403D",
+  "name": "PAM8403D",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/PAM8403D.kicad_sym",
+  "description": "3W Filterless Class-D Stereo Audio Amplifier, SOIC-16",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM8403.pdf",
+  "keywords": "class-D-amplifier switching-amplifier",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/PAM8403D/",
+  "part_path": "parts/PAM8403D",
+  "symbol_file": "parts/PAM8403D/PAM8403D.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:42.915Z"
+}

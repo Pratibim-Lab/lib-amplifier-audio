@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TAS5805MPWP:TAS5805MPWP",
+  "name": "TAS5805MPWP",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TAS5805MPWP.kicad_sym",
+  "description": "23W Stereo, Inductor-Less, Digital Input, Closed-Loop Class-D Audio Amplifier, HTSSOP-28",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tas5805m.pdf",
+  "keywords": "I2S I2C DSP",
+  "footprint": "Package_SO:TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.7mm_Mask3.1x4.05mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TAS5805MPWP/",
+  "part_path": "parts/TAS5805MPWP",
+  "symbol_file": "parts/TAS5805MPWP/TAS5805MPWP.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:05.601Z"
+}

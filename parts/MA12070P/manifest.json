@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/MA12070P:MA12070P",
+  "name": "MA12070P",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/MA12070P.kicad_sym",
+  "description": "Filterless and High-Efficiency +4V to +26V Audio Amplifier with I2S Digital Input, QFN-64",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-MA12070P-DS-v01_00-EN.pdf?fileId=5546d46264a8de7e0164b761f2f261e4",
+  "keywords": "integrated class d amplifier",
+  "footprint": "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP5.45x5.45mm",
+  "extends": "MA12040P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/MA12070P/",
+  "part_path": "parts/MA12070P",
+  "symbol_file": "parts/MA12070P/MA12070P.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:29.258Z"
+}

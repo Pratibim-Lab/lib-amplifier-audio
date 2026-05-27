@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/IR4312:IR4312",
+  "name": "IR4312",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/IR4312.kicad_sym",
+  "description": "PowIRaudio 2 Channel Integrated Analog Input Class D Audio Amplifier, 100W/4ohm, 60V, PQFN-44",
+  "datasheet": "https://www.infineon.com/dgdl/ir4302.pdf?fileId=5546d462533600a4015355d602a9181d",
+  "keywords": "integrated class d amplifier 2ch",
+  "footprint": "Package_DFN_QFN:Infineon_PQFN-44-31-5EP_7x7mm_P0.5mm",
+  "extends": "IR4302",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/IR4312/",
+  "part_path": "parts/IR4312",
+  "symbol_file": "parts/IR4312/IR4312.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:28:52.680Z"
+}

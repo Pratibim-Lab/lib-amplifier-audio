@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/MAX9850xTI:MAX9850xTI",
+  "name": "MAX9850xTI",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/MAX9850xTI.kicad_sym",
+  "description": "Stereo audio DAC with headphone amplifier, TQFN-28",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX9850.pdf",
+  "keywords": "audio ampflifier stereo i2s",
+  "footprint": "Package_DFN_QFN:TQFN-28-1EP_5x5mm_P0.5mm_EP3.25x3.25mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/MAX9850xTI/",
+  "part_path": "parts/MAX9850xTI",
+  "symbol_file": "parts/MAX9850xTI/MAX9850xTI.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:36.857Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/Si8241BB:Si8241BB",
+  "name": "Si8241BB",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/Si8241BB.kicad_sym",
+  "description": "Class D Audio Driver With Precision Dead-Time Generator, 8V UVLO, ±750V, ±0.5A, SOIC-16",
+  "datasheet": "https://www.silabs.com/documents/public/data-sheets/Si824x.pdf",
+  "keywords": "class d gate driver",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/Si8241BB/",
+  "part_path": "parts/Si8241BB",
+  "symbol_file": "parts/Si8241BB/Si8241BB.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:45.719Z"
+}

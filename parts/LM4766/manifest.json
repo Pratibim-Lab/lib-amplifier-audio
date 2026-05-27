@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM4766:LM4766",
+  "name": "LM4766",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM4766.kicad_sym",
+  "description": "Overture Audio Power Amplifier Series Dual 40W Audio Power Amplifier with Mute, TO-220-15",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm4766.pdf",
+  "keywords": "audio amplifier 2ch",
+  "footprint": "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM4766/",
+  "part_path": "parts/LM4766",
+  "symbol_file": "parts/LM4766/LM4766.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:15.967Z"
+}

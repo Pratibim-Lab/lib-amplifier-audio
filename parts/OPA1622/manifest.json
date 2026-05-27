@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/OPA1622:OPA1622",
+  "name": "OPA1622",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/OPA1622.kicad_sym",
+  "description": "High-Fidelity, Bipolar-Input, Audio Operational Amplifier, VSON-10",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/opa1622.pdf",
+  "keywords": "dual opamp audio",
+  "footprint": "Package_SON:Texas_S-PVSON-N10",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/OPA1622/",
+  "part_path": "parts/OPA1622",
+  "symbol_file": "parts/OPA1622/OPA1622.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:37.901Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/IRS20965S:IRS20965S",
+  "name": "IRS20965S",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/IRS20965S.kicad_sym",
+  "description": "Class D Audio Driver, ±100V, 2.0/2.0A, SOIC-16",
+  "datasheet": "https://www.infineon.com/dgdl/irs20965spbf.pdf?fileId=5546d462533600a4015356761d8b279b",
+  "keywords": "Gate Driver Class D",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/IRS20965S/",
+  "part_path": "parts/IRS20965S",
+  "symbol_file": "parts/IRS20965S/IRS20965S.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:00.953Z"
+}

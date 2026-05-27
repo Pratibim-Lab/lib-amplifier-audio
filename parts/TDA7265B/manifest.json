@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA7265B:TDA7265B",
+  "name": "TDA7265B",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA7265B.kicad_sym",
+  "description": "30W + 30W Stereo Amplifier with Mute and Standby, TO-220-11",
+  "datasheet": "http://www.st.com/resource/en/datasheet/tda7265b.pdf",
+  "keywords": "audio amplifier 2ch",
+  "footprint": "Package_TO_SOT_THT:TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.58mm_Vertical",
+  "extends": "TDA7265",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA7265B/",
+  "part_path": "parts/TDA7265B",
+  "symbol_file": "parts/TDA7265B/TDA7265B.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:16.488Z"
+}

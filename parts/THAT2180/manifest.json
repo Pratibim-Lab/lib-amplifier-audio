@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/THAT2180:THAT2180",
+  "name": "THAT2180",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/THAT2180.kicad_sym",
+  "description": "Blackmer Pre-Trimmed IC Voltage Controlled Amplifiers, SIP-8",
+  "datasheet": "http://www.thatcorp.com/datashts/THAT_2180-Series_Datasheet.pdf",
+  "keywords": "audio vca",
+  "footprint": "Package_SIP:SIP-8_19x3mm_P2.54mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/THAT2180/",
+  "part_path": "parts/THAT2180",
+  "symbol_file": "parts/THAT2180/THAT2180.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:31.772Z"
+}

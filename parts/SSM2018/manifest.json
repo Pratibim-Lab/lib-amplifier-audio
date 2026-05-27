@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/SSM2018:SSM2018",
+  "name": "SSM2018",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/SSM2018.kicad_sym",
+  "description": "Trimless Voltage Controlled Amplifier, DIP-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2018.pdf",
+  "keywords": "audio VCA",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/SSM2018/",
+  "part_path": "parts/SSM2018",
+  "symbol_file": "parts/SSM2018/SSM2018.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:50.732Z"
+}

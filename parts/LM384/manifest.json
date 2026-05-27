@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM384:LM384",
+  "name": "LM384",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM384.kicad_sym",
+  "description": "5W Audio Power Amplifier, PDIP-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm384.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_DIP:DIP-14_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM384/",
+  "part_path": "parts/LM384",
+  "symbol_file": "parts/LM384/LM384.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:10.665Z"
+}

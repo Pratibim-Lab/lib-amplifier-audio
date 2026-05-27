@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TAS5825MRHB:TAS5825MRHB",
+  "name": "TAS5825MRHB",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TAS5825MRHB.kicad_sym",
+  "description": "38W Stereo, Inductor-Less, Digital Input, Closed-Loop Class-D Audio Amplifier with 192-kHz Extended Audio Processing, VQFN-32",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/tas5825m.pdf",
+  "keywords": "I2S I2C DSP",
+  "footprint": "Package_DFN_QFN:Texas_RHB0032E_VQFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TAS5825MRHB/",
+  "part_path": "parts/TAS5825MRHB",
+  "symbol_file": "parts/TAS5825MRHB/TAS5825MRHB.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:06.881Z"
+}

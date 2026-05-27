@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LM1875:LM1875",
+  "name": "LM1875",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LM1875.kicad_sym",
+  "description": "20W Audio Power Amplifier, TO-220-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm1875.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LM1875/",
+  "part_path": "parts/LM1875",
+  "symbol_file": "parts/LM1875/LM1875.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:04.839Z"
+}

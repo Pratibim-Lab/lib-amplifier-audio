@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/IRS2452AM:IRS2452AM",
+  "name": "IRS2452AM",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/IRS2452AM.kicad_sym",
+  "description": "Class D Audio IC, PWM Modulator, ±200V, 0.5/0.6A, MLPQ-32",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-IRS2452AM-DS-v01_00-EN.pdf?fileId=5546d462584d1d4a01584ee4f1f00713",
+  "keywords": "Gate Driver Class D 2ch",
+  "footprint": "Package_DFN_QFN:Infineon_MLPQ-40-32-1EP_7x7mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/IRS2452AM/",
+  "part_path": "parts/IRS2452AM",
+  "symbol_file": "parts/IRS2452AM/IRS2452AM.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:01.964Z"
+}

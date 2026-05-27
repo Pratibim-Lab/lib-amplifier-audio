@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/IR4321:IR4321",
+  "name": "IR4321",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/IR4321.kicad_sym",
+  "description": "PowIRaudio Integrated Analog Input Class D Audio Amplifier, 35W/4ohm, 40V, PQFN-22",
+  "datasheet": "https://www.infineon.com/dgdl/ir4301.pdf?fileId=5546d462533600a4015355d5fc691819",
+  "keywords": "integrated class d amplifier",
+  "footprint": "Package_DFN_QFN:Infineon_PQFN-22-15-4EP_6x5mm_P0.65mm",
+  "extends": "IR4301",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/IR4321/",
+  "part_path": "parts/IR4321",
+  "symbol_file": "parts/IR4321/IR4321.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:28:53.650Z"
+}

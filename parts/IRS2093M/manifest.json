@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/IRS2093M:IRS2093M",
+  "name": "IRS2093M",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/IRS2093M.kicad_sym",
+  "description": "4 CH Digital Audio Amplifier, PWM Modulator, ±100V, 0.5/0.6A, MLPQ-48",
+  "datasheet": "https://www.infineon.com/dgdl/irs2093mpbf.pdf?fileId=5546d462533600a401535675fb892793",
+  "keywords": "Gate Driver Class D 4ch",
+  "footprint": "Package_DFN_QFN:Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/IRS2093M/",
+  "part_path": "parts/IRS2093M",
+  "symbol_file": "parts/IRS2093M/IRS2093M.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:28:58.845Z"
+}

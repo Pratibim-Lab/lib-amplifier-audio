@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/SSM2167:SSM2167",
+  "name": "SSM2167",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/SSM2167.kicad_sym",
+  "description": "Low Voltage Microphone Preamplifier with Variable Compression and Noise Gating, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/SSM2167.pdf",
+  "keywords": "audio microphone amplifier",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/SSM2167/",
+  "part_path": "parts/SSM2167",
+  "symbol_file": "parts/SSM2167/SSM2167.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:54.898Z"
+}

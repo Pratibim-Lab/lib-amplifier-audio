@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/PAM8302AAS:PAM8302AAS",
+  "name": "PAM8302AAS",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/PAM8302AAS.kicad_sym",
+  "description": "2.5W Filterless Class-D Mono Audio Amplifier, MSOP-8",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/PAM8302A.pdf",
+  "keywords": "audio amplifier class d",
+  "footprint": "",
+  "extends": "PAM8302AAD",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/PAM8302AAS/",
+  "part_path": "parts/PAM8302AAS",
+  "symbol_file": "parts/PAM8302AAS/PAM8302AAS.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:40.811Z"
+}

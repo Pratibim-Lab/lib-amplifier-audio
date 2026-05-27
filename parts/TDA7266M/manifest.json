@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA7266M:TDA7266M",
+  "name": "TDA7266M",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA7266M.kicad_sym",
+  "description": "7W Mono Bridge Amplifier, TO-220-15",
+  "datasheet": "http://www.st.com/resource/en/datasheet/tda7266m.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA7266M/",
+  "part_path": "parts/TDA7266M",
+  "symbol_file": "parts/TDA7266M/TDA7266M.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:19.407Z"
+}

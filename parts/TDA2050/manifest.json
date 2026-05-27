@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA2050:TDA2050",
+  "name": "TDA2050",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA2050.kicad_sym",
+  "description": "32W Hi-Fi Audio Amplifier, TO-220-5",
+  "datasheet": "http://www.st.com/resource/en/datasheet/cd00000131.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical",
+  "extends": "TDA2030",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA2050/",
+  "part_path": "parts/TDA2050",
+  "symbol_file": "parts/TDA2050/TDA2050.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:12.359Z"
+}

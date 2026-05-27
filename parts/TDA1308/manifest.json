@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA1308:TDA1308",
+  "name": "TDA1308",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA1308.kicad_sym",
+  "description": "Class-AB Stereo Headphone Driver, SOIC-8/TSSOP-8",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/TDA1308.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA1308/",
+  "part_path": "parts/TDA1308",
+  "symbol_file": "parts/TDA1308/TDA1308.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:08.233Z"
+}

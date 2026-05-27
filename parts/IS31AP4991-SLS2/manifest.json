@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/IS31AP4991-SLS2:IS31AP4991-SLS2",
+  "name": "IS31AP4991-SLS2",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/IS31AP4991-SLS2.kicad_sym",
+  "description": "1.2W, 2.7-5.5V, Audio Power Amplifier, Active-Low Standby, MSOP-8",
+  "datasheet": "http://www.issi.com/WW/pdf/31AP4991.pdf",
+  "keywords": "ultra low consumption distortion",
+  "footprint": "Package_SO:MSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/IS31AP4991-SLS2/",
+  "part_path": "parts/IS31AP4991-SLS2",
+  "symbol_file": "parts/IS31AP4991-SLS2/IS31AP4991-SLS2.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:03.877Z"
+}

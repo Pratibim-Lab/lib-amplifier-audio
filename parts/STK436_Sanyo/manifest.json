@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/STK436_Sanyo:STK436_Sanyo",
+  "name": "STK436_Sanyo",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/STK436_Sanyo.kicad_sym",
+  "description": "2-Channel 10 Wmin Audio Frequency Power Amplifier, 4010, SIP-15",
+  "datasheet": "http://datasheet.octopart.com/STK430-Sanyo-datasheet-107060.pdf",
+  "keywords": "audio amplifier 2ch",
+  "footprint": "Package_SIP:Sanyo_STK4xx-15_59.2x8.0mm_P2.54mm",
+  "extends": "STK433_Sanyo",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/STK436_Sanyo/",
+  "part_path": "parts/STK436_Sanyo",
+  "symbol_file": "parts/STK436_Sanyo/STK436_Sanyo.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:00.262Z"
+}

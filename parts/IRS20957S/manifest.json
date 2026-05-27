@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/IRS20957S:IRS20957S",
+  "name": "IRS20957S",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/IRS20957S.kicad_sym",
+  "description": "Protected Digital Audio Driver, ±100V, 1.0/1.2A, SOIC-16",
+  "datasheet": "http://www.infineon.com/dgdl/irs20957spbf.pdf?fileId=5546d462533600a401535676143e2799",
+  "keywords": "Gate Driver Class D",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/IRS20957S/",
+  "part_path": "parts/IRS20957S",
+  "symbol_file": "parts/IRS20957S/IRS20957S.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:00.001Z"
+}

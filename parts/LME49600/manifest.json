@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/LME49600:LME49600",
+  "name": "LME49600",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/LME49600.kicad_sym",
+  "description": "High-Performance, High-Fidelity, High-Current Headphone Buffer, 250mA, TO-263",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lme49600.pdf",
+  "keywords": "audio buffer amplifier",
+  "footprint": "Package_TO_SOT_SMD:TO-263-5_TabPin3",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/LME49600/",
+  "part_path": "parts/LME49600",
+  "symbol_file": "parts/LME49600/LME49600.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:25.011Z"
+}

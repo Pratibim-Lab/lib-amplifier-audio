@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/THAT151xx08:THAT151xx08",
+  "name": "THAT151xx08",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/THAT151xx08.kicad_sym",
+  "description": "Low-Noise, High Performance Audio Preamplifier IC",
+  "datasheet": "https://www.thatcorp.com/datashts/THAT_1510-1512_Datasheet.pdf",
+  "keywords": "Audio Preamplifier",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/THAT151xx08/",
+  "part_path": "parts/THAT151xx08",
+  "symbol_file": "parts/THAT151xx08/THAT151xx08.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:30.718Z"
+}

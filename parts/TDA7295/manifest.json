@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/TDA7295:TDA7295",
+  "name": "TDA7295",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/TDA7295.kicad_sym",
+  "description": "80V - 80W DMOS Audio Amplifier with Mute/St-by, TO-220-15",
+  "datasheet": "http://www.st.com/resource/en/datasheet/tda7295.pdf",
+  "keywords": "audio amplifier",
+  "footprint": "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical",
+  "extends": "TDA7293",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/TDA7295/",
+  "part_path": "parts/TDA7295",
+  "symbol_file": "parts/TDA7295/TDA7295.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:30:25.482Z"
+}

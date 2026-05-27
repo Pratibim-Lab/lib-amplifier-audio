@@ -1,0 +1,17 @@
+{
+  "id": "Amplifier_Audio/MAX9701xTG:MAX9701xTG",
+  "name": "MAX9701xTG",
+  "library": "Amplifier_Audio",
+  "file": "Amplifier_Audio.kicad_symdir/MAX9701xTG.kicad_sym",
+  "description": "Stereo class D power amplifier, 1.3W, TQFN-24",
+  "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX9701.pdf",
+  "keywords": "stereo power amplifier",
+  "footprint": "Package_DFN_QFN:TQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-amplifier-audio@master/parts/MAX9701xTG/",
+  "part_path": "parts/MAX9701xTG",
+  "symbol_file": "parts/MAX9701xTG/MAX9701xTG.kicad_sym",
+  "source_library": "Amplifier_Audio.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T04:29:30.149Z"
+}
